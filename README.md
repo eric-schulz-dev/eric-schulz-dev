@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @eric-schulz-dev. Vocational Student at SAP SE.
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning web develpment with react
+- 🌱 I’m currently learning web develpment with three js
 - i know how to:
+- - React
   - Java
   - Dart
   - Flutter
@@ -9,4 +10,4 @@
   - Micro controllers
   - HTML & CSS
 
-- 📫 How to reach me Eric_S@gmx.net or linkedIn:https://www.linkedin.com/in/-eric-schulz/
+- 📫 How to reach me: Eric_S@gmx.net or linkedIn:https://www.linkedin.com/in/-eric-schulz/
