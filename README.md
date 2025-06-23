@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eric-schulz-dev. Vocational Student at SAP SE.
+- 👋 Hi, I’m @eric-schulz-dev.
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning web develpment with three js
 - i know how to:
